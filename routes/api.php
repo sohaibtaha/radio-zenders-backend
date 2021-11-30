@@ -15,7 +15,7 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
-// dsdfdfdfdf
+// josef het doet niks
 
 Route::get('/zenders', [ZenderController::class, 'index']);
 Route::post('/zenders', [ZenderController::class, 'store']);
